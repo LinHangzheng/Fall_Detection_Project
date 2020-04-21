@@ -1,2 +1,2 @@
 # Fall-Detection-Project
-# Fall_Detection_Project
+Only used for practice. 
